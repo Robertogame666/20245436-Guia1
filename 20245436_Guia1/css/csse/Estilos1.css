@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+.contenido {
+    font-size: 20px;
+}
+
+.contenido h2 {
+    text-decoration: underline;
+}
+
+.contenido .p1 {
+    color: black;
+}
+
+.contenido .p2 {
+    text-align: justify;
+}
+
+.contenido .p3 {
+    font-size: 12px;
+}
+
+.contenido .cursiva {
+    font-style: italic;
+}
